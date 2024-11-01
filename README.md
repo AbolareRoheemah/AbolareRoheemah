@@ -20,7 +20,7 @@ I’m a passionate frontend and smart contract developer with expertise in a var
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abolareroheemah/)](https://www.linkedin.com/in/abolareroheemah/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/rhorheeymarh)](https://x.com/rhorheeymarh?s=21)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://rhorheeymarh.vercel.app/)](https://rhorheeymarh.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://vercel.com/)](https://rhorheeymarh.vercel.app/)
 
 ## 🔥 My Projects
 - 🌟 [VizientCoop](https://vizientcoop.com/) - An assets management and investment platform.
