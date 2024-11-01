@@ -1,7 +1,7 @@
 # Hi there! I'm Roheemah 👋
 
 ## 🚀 About Me
-I’m a passionate frontend and smart contract developer with expertise in a variety of technologies, including React, Vue, Nuxt, JavaScript, HTML, CSS, Git, Vuetify, and Solidity for smart contract development. My commitment to continuous learning has helped me master the creation of user-friendly, visually appealing web applications—from landing pages to fintech platforms and admin dashboards—as well as secure and efficient blockchain-based solutions.
+I’m an experienced frontend and smart contract developer with expertise in a variety of technologies, including React, Vue, Nuxt, JavaScript, HTML, CSS, Git, Vuetify, and Solidity for smart contract development. My commitment to continuous learning has helped me master the creation of user-friendly, visually appealing web applications—from landing pages to fintech platforms and admin dashboards—as well as secure and efficient blockchain-based solutions.
 
 ### 🛠 Tech Stack
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
@@ -28,9 +28,9 @@ I’m a passionate frontend and smart contract developer with expertise in a var
 - 💡 [E-Vot](https://e-volt-drl8.vercel.app/) - A decentralized voting platform.
 
 ## 🏆 Achievements
-- [3rd place winner of AYA HQ hackathon 2024 (Team InvoisChain)]
-- [3rd place winner of ICP Hub hackathon 2024 (Team E-Vot)]
-- [3rd place winner of DappsOverDapps hackathon 2024 (Team InvoisChain)]
+- [3rd place winner of AYA HQ hackathon 2024 (Team InvoisChain)](https://x.com/ayahq_/status/1843563255794675802?s=46)
+- [3rd place winner of ICP Hub hackathon 2024 (Team E-Vot)](https://x.com/coinstoreexc/status/1838899030467956995?s=46)
+- [3rd place winner of DappsOverDapps hackathon 2024 (Team InvoisChain)](https://x.com/dappsoverapps/status/1851718575167541539?s=46)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
